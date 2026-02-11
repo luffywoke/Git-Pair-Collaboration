@@ -4,3 +4,4 @@ Line 2: Changes will intentionally overlap.
 Line 3: Merge conflicts will occur.
 Line 4: A-note: Pull before large changes.
 Line 5: B-note: Conflicts are part of collaboration.
+
